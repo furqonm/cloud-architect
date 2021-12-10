@@ -31,6 +31,10 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
     > Kumpulan lab Google Cloud yang disediakan gratis. Untuk mencoba bisa mendaftar menggunakan akun Google kita.
 
+- [Google Cloud Skill Badges](https://cloud.google.com/training/badges)
+
+    > Gratis 30 hari untuk mengakses labs dan challenge labs. Kalau kita selesaikan semuanya, kita mendapatkan Google Cloud digital skill badge yang bisa dishare ke social media.
+
 ### 2. Step-by-Step Tutorials
 - [Compute Engine: Tutorials](https://cloud.google.com/compute/docs/tutorials)
 
