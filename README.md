@@ -9,7 +9,7 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
     > Video material dari Andrew Brown (ExamPro) di freecodecamp dan AwesomeGCP. Silahkan dipelajari untuk memperkuat konsep dasar Google Cloud, dimana materi ini cocok untuk pemula. Ada video yang menampilkan demo dan ada yang membahas contoh soal ujian GCP ACE.
 
-### 1. GCP Course: Professional Level
+### 2. GCP Course: Professional Level
 - [Google Cloud Professional Cloud Architect - The Certified Q&A for GCP](https://www.youtube.com/watch?v=iNJe_NrbijM&list=PLQMsfKRZZviTIxEh0pkWNwnDUasGVZS4n&ab_channel=AwesomeGCP) **(Unofficial)**
 
     > Video material dari AwesomeGCP. Silahkan dipelajari untuk memperdalam pengenalan beberapa service di Google Cloud berikut fitur-fiturnya yang mungkin diujikan. Disini dibahas juga contoh soal ujian GCP PCA.
