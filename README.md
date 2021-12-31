@@ -24,6 +24,18 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
     > Simulasi ujian via Google Forms untuk mengenali format pertanyaan ujian GCP PCA nanti.
 
+- [Quiz 1: Defining Services](https://forms.gle/CViiRMLuQFowHz5MA)
+- [Quiz 2: Microservice Design and Architecture](https://forms.gle/recZd5BM8ariJ15s6)
+- [Quiz 3:  DevOps Automation](https://forms.gle/YwYGwFWUWXnkRyPe6)
+- [Quiz 4:  Choosing Storage Solutions](https://forms.gle/dwkddj5EMNHANkCy9)
+- [Quiz 5: Google Cloud and Hybrid Network Architecture](https://forms.gle/5Km2ioMenjAxC3BEA)
+- [Quiz 6: Deploying Applications to Google Cloud](https://forms.gle/g2SExhqNseaAcBZm7)
+- [Quiz 7: Designing Reliable Systems](https://forms.gle/27Yes1DjA7oiSPmw7)
+- [Quiz 8: Security](https://forms.gle/yfzGtHyqYhwMbQNr6)
+- [Quiz 9: Maintenance and Monitoring](https://forms.gle/LCGT9chqoeoAaLkC6)
+
+    > Beberapa pertanyaan sewaktu kelas GCP Design and Process via Google Forms. Google Forms-nya tidak akan menyimpan informasi pribadi peserta.
+
 ## Hands-on Labs
 ### 1. Free Labs
 - [Google Cloud Skills Boost](https://www.cloudskillsboost.google/catalog?price%5B%5D=free)
