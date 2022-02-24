@@ -3,16 +3,20 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
 ---
 ## Exam Preparation Materials
-### 1. GCP Course: Fundamental & Associate Level
+### 1. Google Cloud Course
 - [Google Cloud Digital Leader Certification Course - Pass the Exam!](https://www.youtube.com/watch?v=UGRDM86MBIQ&ab_channel=freeCodeCamp.org) **(Unofficial)**
 - [Google Cloud Associate Cloud Engineer - The Certified Q&A for GCP](https://www.youtube.com/playlist?list=PLQMsfKRZZviRwqJwNmh1eAWnRMvlrk40x) **(Unofficial)**
 
     > Video material dari Andrew Brown (ExamPro) di freecodecamp dan AwesomeGCP. Silahkan dipelajari untuk memperkuat konsep dasar Google Cloud, dimana materi ini cocok untuk pemula. Ada video yang menampilkan demo dan ada yang membahas contoh soal ujian GCP ACE.
 
-### 2. GCP Course: Professional Level
 - [Google Cloud Professional Cloud Architect - The Certified Q&A for GCP](https://www.youtube.com/watch?v=iNJe_NrbijM&list=PLQMsfKRZZviTIxEh0pkWNwnDUasGVZS4n&ab_channel=AwesomeGCP) **(Unofficial)**
 
     > Video material dari AwesomeGCP. Silahkan dipelajari untuk memperdalam pengenalan beberapa service di Google Cloud berikut fitur-fiturnya yang mungkin diujikan. Disini dibahas juga contoh soal ujian GCP PCA.
+
+### 2. Kubernetes Course
+- [Belajar Kubernetes untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH8XrWyQAyRd6d_CKwxD8Ime)
+
+    > Video material dari Programmer Zaman Now. Silahkan dipelajari untuk memperkuat konsep dasar tentang Kubernetes.
 
 ### 3. Exam Guide
 - [Professional Cloud Architect: Certification Exam Guide](https://cloud.google.com/certification/guides/professional-cloud-architect)
