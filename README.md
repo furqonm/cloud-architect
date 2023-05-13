@@ -4,6 +4,10 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 ---
 ## Exam Preparation Materials
 ### 1. Google Cloud Course
+- [Reliable Google Cloud Infrastructure: Design and Process](https://www.cloudskillsboost.google/course_templates/41)
+
+    > Official e-learning from Google Cloud. If you attended Google Cloud: Design and Process class before, you are able to rewatch what you learned with this e-learning.
+
 - [Google Cloud Associate Cloud Engineer Course - Pass the Exam!](https://www.youtube.com/watch?v=jpno8FSqpc8) **(Unofficial)**
 
     > Video material dari Antoni Tzavelas di freecodecamp. Meskipun material levelnya ACE bukan PCA, material ini bisa digunakan untuk memperdalam pengenalan service-service di Google Cloud.
